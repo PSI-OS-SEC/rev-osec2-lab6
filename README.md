@@ -25,10 +25,10 @@ export IP_CLIENT1=192.168.1.1 IP_CLIENT2=192.168.1.2
 
 ```
 
-Debe agregar la llave de SSH del usuario root al usuario admin de su IdM. 
+Debe agregar la llave de SSH del usuario ```root``` al usuario ```admin``` de su IdM.
 
-Si no tiene una llave con el usuario (root) en el sistema de (ipa01), debe de crearla y agregar la configuración adecuada.
-
+Si no tiene una llave con el usuario ```root``` en el sistema de ```ipa01```, deberá crearla y agregar la configuración adecuada a su sistema.
+ 
 ```sh
  ./test.sh
 ```
