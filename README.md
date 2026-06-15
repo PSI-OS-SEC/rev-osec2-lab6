@@ -19,8 +19,6 @@ Para poder ejecutar este script, deberá contar con:
 ```sh
 kinit admin
 
-export LANG=en_US.UTF-8
-
 export IP_CLIENT1=192.168.1.1 IP_CLIENT2=192.168.1.2
 
  ```
