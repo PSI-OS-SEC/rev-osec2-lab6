@@ -4,9 +4,11 @@
 
 Para poder ejecutar este script, deberá contar con:
 
+0. Clonar este repositorio
 1. FreeIPA
 2. Credenciales para el usuario (admin)
 3. Credenciales para los usarios del grupo (webmasters)
+
 
 
 ## Ejecución:
