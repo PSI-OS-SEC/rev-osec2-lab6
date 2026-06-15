@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export LANG=en_US.UTF-8
+
 RED="\e[31m"
 GREEN="\e[32m"
 ENDCOLOR="\e[0m"
